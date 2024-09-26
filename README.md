@@ -1,3 +1,1 @@
-about me: I am @greenedt
-where do I live: I live and work in the SF Bay Area
-what do I do: I code in python
+My name is David Greene.  I live and work in the SF Bay Area.  I perform data analysis in python.  I also am proficient at SQL.
